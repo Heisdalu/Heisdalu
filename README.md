@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Divine Obi</h1>
+<h1 align="left">Hi 👋, I'm Divine Obi aka Heisdalu</h1>
 <p align="left">Divine Obi is a front-end developer. I am passionate about building responsive, user-friendly, accessible, and performant websites with delightful user experiences. I cherish recreating ideas and imagination to build amazing UI and animating on the web with Gsap.js.</p>
 
 - 🌱 I’m currently learning **Next.js, Typescript and Jest**
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dhevine_ox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhevine_ox" height="30" width="40" /></a>
+<a href="https://twitter.com/Dhevine_0X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dhevine_0X" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/divine-obi-6338701b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divine-obi-6338701b8" height="30" width="40" /></a>
 </p>
 
