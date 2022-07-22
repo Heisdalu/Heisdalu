@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Divine Obi</h1>
-<h3 align="left">Divine Obi is a front-end developer. I am passionate about building responsive, user-friendly, accessible, and performant websites with delightful user experiences. I cherish recreating ideas and imagination to build amazing UI and animating on the web with Gsap.js.</h3>
+<h4 align="left">Divine Obi is a front-end developer. I am passionate about building responsive, user-friendly, accessible, and performant websites with delightful user experiences. I cherish recreating ideas and imagination to build amazing UI and animating on the web with Gsap.js.</h4>
 
 - 🌱 I’m currently learning **Next.js, Typescript and Jest**
 
