@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Divine Obi aka Heisdalu</h1>
 <p align="left">Divine Obi is a front-end developer. I am passionate about building responsive, user-friendly, accessible, and performant websites with delightful user experiences. I cherish recreating ideas and imagination so as to implement beautiful UI and animating on the web with Gsap.js.</p>
 
-- 🌱 I’m currently learning **Next.js, Typescript and Jest**
+- 🌱 I’m currently learning **Typescript and Jest**
 
 - 💬 Ask me about **React, A11ny**
 
