@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Jest**
 
-- 💬 Ask me about **React, Typescript, Next.Js**
+- 💬 Ask me about **React, Typescript, Next.Js and Tailwind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
